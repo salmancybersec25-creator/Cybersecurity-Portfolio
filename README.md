@@ -19,4 +19,5 @@ This repository documents my hands-on journey through the **PortSwigger Web Secu
 
 Here is an organized index of the vulnerabilities I have successfully identified, exploited, and documented. 
 
-*(Links will be added as I complete the labs)*
+### 🗄️ SQL Injection
+*   [Lab 01: Retrieving Hidden Data](PortSwigger-Academy/01-SQL-Injection/Lab-01-Retrieving-Hidden-Data.md)

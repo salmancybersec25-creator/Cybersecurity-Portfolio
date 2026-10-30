@@ -21,3 +21,4 @@ Here is an organized index of the vulnerabilities I have successfully identified
 
 ### 🗄️ SQL Injection
 *   [Lab 01: Retrieving Hidden Data](PortSwigger-Academy/01-SQL-Injection/Lab-01-Retrieving-Hidden-Data.md)
+*   [Lab 02: Login Bypass](PortSwigger-Academy/01-SQL-Injection/Lab-02-Login-Bypass.md)

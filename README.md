@@ -30,3 +30,4 @@ Here is an organized index of the vulnerabilities I have successfully identified
                     *   *   [Lab 07: Determining the Number of Columns](PortSwigger-Academy/01-SQL-Injection/Lab-07-Determining-Number-of-Columns.md)
                         *   *   [Lab 08: Finding a Column Containing Text](PortSwigger-Academy/01-SQL-Injection/Lab-08-Finding-Column-Containing-Text.md)
                             *   *   [Lab 09: Retrieving Data From Other Tables](PortSwigger-Academy/01-SQL-Injection/Lab-09-Retrieving-Data-From-Other-Tables.md)
+                                *   *   [Lab 10: Retrieving Multiple Values in a Single Column](PortSwigger-Academy/01-SQL-Injection/Lab-10-Retrieving-Multiple-Values-Single-Column.md)

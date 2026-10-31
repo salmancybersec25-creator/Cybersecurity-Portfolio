@@ -24,3 +24,4 @@ Here is an organized index of the vulnerabilities I have successfully identified
 *   [Lab 02: Login Bypass](PortSwigger-Academy/01-SQL-Injection/Lab-02-Login-Bypass.md)
 *   *   [Lab 04: Flawed Enforcement of Business Rules](PortSwigger-Academy/02-Business-Logic/Lab-04-Flawed-Enforcement-of-Business-Rules.md)
     *   *   [Lab 03: Querying Database Version on Oracle](PortSwigger-Academy/01-SQL-Injection/Lab-03-Querying-Database-Version-Oracle.md)
+        *   *   [Lab 04: Querying Database Version on MySQL and Microsoft](PortSwigger-Academy/01-SQL-Injection/Lab-04-Querying-Database-Version-MySQL-MSSQL.md)

@@ -26,3 +26,4 @@ Here is an organized index of the vulnerabilities I have successfully identified
     *   *   [Lab 03: Querying Database Version on Oracle](PortSwigger-Academy/01-SQL-Injection/Lab-03-Querying-Database-Version-Oracle.md)
         *   *   [Lab 04: Querying Database Version on MySQL and Microsoft](PortSwigger-Academy/01-SQL-Injection/Lab-04-Querying-Database-Version-MySQL-MSSQL.md)
             *   *   [Lab 05: Listing Database Contents on Non-Oracle Databases](PortSwigger-Academy/01-SQL-Injection/Lab-05-Listing-Database-Contents-Non-Oracle.md)
+                *   *   [Lab 06: Listing Database Contents on Oracle](PortSwigger-Academy/01-SQL-Injection/Lab-06-Listing-Database-Contents-Oracle.md)

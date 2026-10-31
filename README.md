@@ -31,3 +31,5 @@ Here is an organized index of the vulnerabilities I have successfully identified
                         *   *   [Lab 08: Finding a Column Containing Text](PortSwigger-Academy/01-SQL-Injection/Lab-08-Finding-Column-Containing-Text.md)
                             *   *   [Lab 09: Retrieving Data From Other Tables](PortSwigger-Academy/01-SQL-Injection/Lab-09-Retrieving-Data-From-Other-Tables.md)
                                 *   *   [Lab 10: Retrieving Multiple Values in a Single Column](PortSwigger-Academy/01-SQL-Injection/Lab-10-Retrieving-Multiple-Values-Single-Column.md)
+                                    *   ### 💻 Cross-Site Scripting (XSS)
+*   [Lab 01: Reflected XSS into HTML context with nothing encoded](PortSwigger-Academy/03-XSS/Lab-01-Reflected-XSS-HTML-Nothing-Encoded.md)

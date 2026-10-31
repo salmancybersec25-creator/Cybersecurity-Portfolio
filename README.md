@@ -27,6 +27,7 @@ Here is an organized index of the vulnerabilities I have successfully identified
         *   *   [Lab 04: Querying Database Version on MySQL and Microsoft](PortSwigger-Academy/01-SQL-Injection/Lab-04-Querying-Database-Version-MySQL-MSSQL.md)
             *   *   [Lab 05: Listing Database Contents on Non-Oracle Databases](PortSwigger-Academy/01-SQL-Injection/Lab-05-Listing-Database-Contents-Non-Oracle.md)
                 *   *   [Lab 06: Listing Database Contents on Oracle](PortSwigger-Academy/01-SQL-Injection/Lab-06-Listing-Database-Contents-Oracle.md)
+                    *   *   [Lab 03: DOM XSS in document.write sink using source location.search](PortSwigger-Academy/03-XSS/Lab-03-DOM-XSS-document.write-location.search.md)
                     *   *   [Lab 07: Determining the Number of Columns](PortSwigger-Academy/01-SQL-Injection/Lab-07-Determining-Number-of-Columns.md)
                         *   *   [Lab 08: Finding a Column Containing Text](PortSwigger-Academy/01-SQL-Injection/Lab-08-Finding-Column-Containing-Text.md)
                             *   *   [Lab 09: Retrieving Data From Other Tables](PortSwigger-Academy/01-SQL-Injection/Lab-09-Retrieving-Data-From-Other-Tables.md)

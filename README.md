@@ -39,3 +39,4 @@ Here is an organized index of the vulnerabilities I have successfully identified
 *   [Lab 01: Reflected XSS into HTML context with nothing encoded](PortSwigger-Academy/03-XSS/Lab-01-Reflected-XSS-HTML-Nothing-Encoded.md)
 *   [Lab 02: Stored XSS into HTML context with nothing encoded](PortSwigger-Academy/03-XSS/Lab-02-Stored-XSS-HTML-Nothing-Encoded.md)
 *   [Lab 03: DOM XSS in document.write sink using source location.search](PortSwigger-Academy/03-XSS/Lab-03-DOM-XSS-document.write-location.search.md)
+*   [Lab 04: DOM XSS in innerHTML sink using source location.search](PortSwigger-Academy/03-XSS/Lab-04-DOM-XSS-innerHTML-location.search.md)

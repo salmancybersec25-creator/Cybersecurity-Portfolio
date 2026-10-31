@@ -17,21 +17,25 @@ This repository documents my hands-on journey through the **PortSwigger Web Secu
 
 ## 📚 PortSwigger Web Security Academy Lab Write-ups
 
-Here is an organized index of the vulnerabilities I have successfully identified, exploited, and documented. 
+Here is an organized index of the vulnerabilities I have successfully identified, exploited, and documented.
 
 ### 🗄️ SQL Injection
 *   [Lab 01: Retrieving Hidden Data](PortSwigger-Academy/01-SQL-Injection/Lab-01-Retrieving-Hidden-Data.md)
 *   [Lab 02: Login Bypass](PortSwigger-Academy/01-SQL-Injection/Lab-02-Login-Bypass.md)
-*   *   [Lab 04: Flawed Enforcement of Business Rules](PortSwigger-Academy/02-Business-Logic/Lab-04-Flawed-Enforcement-of-Business-Rules.md)
-    *   *   [Lab 03: Querying Database Version on Oracle](PortSwigger-Academy/01-SQL-Injection/Lab-03-Querying-Database-Version-Oracle.md)
-        *   *   [Lab 04: Querying Database Version on MySQL and Microsoft](PortSwigger-Academy/01-SQL-Injection/Lab-04-Querying-Database-Version-MySQL-MSSQL.md)
-            *   *   [Lab 05: Listing Database Contents on Non-Oracle Databases](PortSwigger-Academy/01-SQL-Injection/Lab-05-Listing-Database-Contents-Non-Oracle.md)
-                *   *   [Lab 06: Listing Database Contents on Oracle](PortSwigger-Academy/01-SQL-Injection/Lab-06-Listing-Database-Contents-Oracle.md)
-                    *   *   [Lab 03: DOM XSS in document.write sink using source location.search](PortSwigger-Academy/03-XSS/Lab-03-DOM-XSS-document.write-location.search.md)
-                    *   *   [Lab 07: Determining the Number of Columns](PortSwigger-Academy/01-SQL-Injection/Lab-07-Determining-Number-of-Columns.md)
-                        *   *   [Lab 08: Finding a Column Containing Text](PortSwigger-Academy/01-SQL-Injection/Lab-08-Finding-Column-Containing-Text.md)
-                            *   *   [Lab 09: Retrieving Data From Other Tables](PortSwigger-Academy/01-SQL-Injection/Lab-09-Retrieving-Data-From-Other-Tables.md)
-                                *   *   [Lab 10: Retrieving Multiple Values in a Single Column](PortSwigger-Academy/01-SQL-Injection/Lab-10-Retrieving-Multiple-Values-Single-Column.md)
-                                    *   ### 💻 Cross-Site Scripting (XSS)
+*   [Lab 03: Querying Database Version on Oracle](PortSwigger-Academy/01-SQL-Injection/Lab-03-Querying-Database-Version-Oracle.md)
+*   [Lab 04: Querying Database Version on MySQL and Microsoft](PortSwigger-Academy/01-SQL-Injection/Lab-04-Querying-Database-Version-MySQL-MSSQL.md)
+*   [Lab 05: Listing Database Contents on Non-Oracle Databases](PortSwigger-Academy/01-SQL-Injection/Lab-05-Listing-Database-Contents-Non-Oracle.md)
+*   [Lab 06: Listing Database Contents on Oracle](PortSwigger-Academy/01-SQL-Injection/Lab-06-Listing-Database-Contents-Oracle.md)
+*   [Lab 07: Determining the Number of Columns](PortSwigger-Academy/01-SQL-Injection/Lab-07-Determining-Number-of-Columns.md)
+*   [Lab 08: Finding a Column Containing Text](PortSwigger-Academy/01-SQL-Injection/Lab-08-Finding-Column-Containing-Text.md)
+*   [Lab 09: Retrieving Data From Other Tables](PortSwigger-Academy/01-SQL-Injection/Lab-09-Retrieving-Data-From-Other-Tables.md)
+*   [Lab 10: Retrieving Multiple Values in a Single Column](PortSwigger-Academy/01-SQL-Injection/Lab-10-Retrieving-Multiple-Values-Single-Column.md)
+
+### 🧠 Business Logic Vulnerabilities
+*   [Lab 03: Inconsistent Security Controls](PortSwigger-Academy/02-Business-Logic/Lab-03-Inconsistent-Security-Controls.md)
+*   [Lab 04: Flawed Enforcement of Business Rules](PortSwigger-Academy/02-Business-Logic/Lab-04-Flawed-Enforcement-of-Business-Rules.md)
+
+### 💻 Cross-Site Scripting (XSS)
 *   [Lab 01: Reflected XSS into HTML context with nothing encoded](PortSwigger-Academy/03-XSS/Lab-01-Reflected-XSS-HTML-Nothing-Encoded.md)
-*   *   [Lab 02: Stored XSS into HTML context with nothing encoded](PortSwigger-Academy/03-XSS/Lab-02-Stored-XSS-HTML-Nothing-Encoded.md)
+*   [Lab 02: Stored XSS into HTML context with nothing encoded](PortSwigger-Academy/03-XSS/Lab-02-Stored-XSS-HTML-Nothing-Encoded.md)
+*   [Lab 03: DOM XSS in document.write sink using source location.search](PortSwigger-Academy/03-XSS/Lab-03-DOM-XSS-document.write-location.search.md)

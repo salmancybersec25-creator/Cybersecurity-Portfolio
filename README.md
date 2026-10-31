@@ -33,3 +33,4 @@ Here is an organized index of the vulnerabilities I have successfully identified
                                 *   *   [Lab 10: Retrieving Multiple Values in a Single Column](PortSwigger-Academy/01-SQL-Injection/Lab-10-Retrieving-Multiple-Values-Single-Column.md)
                                     *   ### 💻 Cross-Site Scripting (XSS)
 *   [Lab 01: Reflected XSS into HTML context with nothing encoded](PortSwigger-Academy/03-XSS/Lab-01-Reflected-XSS-HTML-Nothing-Encoded.md)
+*   *   [Lab 02: Stored XSS into HTML context with nothing encoded](PortSwigger-Academy/03-XSS/Lab-02-Stored-XSS-HTML-Nothing-Encoded.md)

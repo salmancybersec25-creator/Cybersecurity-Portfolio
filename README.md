@@ -42,5 +42,6 @@ Here is an organized index of the vulnerabilities I have successfully identified
 *   [Lab 04: DOM XSS in innerHTML sink using source location.search](PortSwigger-Academy/03-XSS/Lab-04-DOM-XSS-innerHTML-location.search.md)
 *   [Lab 05: DOM XSS in jQuery anchor href attribute sink using location.search source](PortSwigger-Academy/03-XSS/Lab-05-DOM-XSS-jQuery-anchor-href-location.search.md)
 *   [Lab 06: DOM XSS in jQuery selector sink using a hashchange event](PortSwigger-Academy/03-XSS/Lab-06-DOM-XSS-jQuery-selector-hashchange.md)
+  ### 🔐 Authentication
 *   [Lab 01: Username enumeration via different responses](PortSwigger-Academy/04-Authentication/Lab-01-Username-Enumeration-Different-Responses.md)
 

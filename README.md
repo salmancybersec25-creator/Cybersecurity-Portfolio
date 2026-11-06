@@ -45,4 +45,6 @@ Here is an organized index of the vulnerabilities I have successfully identified
   ### 🔐 Authentication
 *   [Lab 01: Username enumeration via different responses](PortSwigger-Academy/04-Authentication/Lab-01-Username-Enumeration-Different-Responses.md)
 *   [Lab 02: 2FA simple bypass](PortSwigger-Academy/04-Authentication/Lab-02-2FA-Simple-Bypass.md)
+*   [Lab 03: Password reset broken logic](PortSwigger-Academy/04-Authentication/Lab-03-Password-Reset-Broken-Logic.md)
+
 
